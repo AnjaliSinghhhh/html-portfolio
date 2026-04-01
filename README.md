@@ -1,1 +1,3 @@
-# cpmplete portfolio with details 
+# complete portfolio with details 
+weekely plan designing 
+implementation 
